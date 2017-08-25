@@ -1,7 +1,8 @@
-this a damo of js project to control arduino
+This a damo of js project to control arduino
+---------------------------------------------
+To start a project:
+-------------------
+1. set arduino to StandardFirmata
 
-to start a project run:
+2. npm install johnny-five
 
-set arduino to StandardFirmata
-
-npm install johnny-five
